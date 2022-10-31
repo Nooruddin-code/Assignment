@@ -1,0 +1,5 @@
+com\fileHandleing\model\RedisConfig.class
+com\fileHandleing\model\service.class
+com\fileHandleing\FileUploadDownloadApplication.class
+com\fileHandleing\model\fileUpload.class
+com\fileHandleing\model\Controller.class

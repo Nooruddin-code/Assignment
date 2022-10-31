@@ -1,0 +1,8 @@
+package com.fileHandleing.model;
+
+import org.springframework.stereotype.Service;
+
+@Service
+public class service {
+	
+}
